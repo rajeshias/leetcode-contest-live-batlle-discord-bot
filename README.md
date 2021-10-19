@@ -1,5 +1,5 @@
 <img src="https://media.discordapp.net/attachments/615533501411885058/899265428981973002/unknown.png"></img>
-# leetcode-contest-live-batlle-discord-bot
+# leetcode-contest-live-battle-discord-bot
 
 ## For now using pickle to store data in the local which will act as the DB
 
